@@ -1,7 +1,7 @@
 import axios from "axios";
 
 
-const BASE_URL="https://backedn-production.up.railway.app"
+const BASE_URL="https://backedn-production.up.railway.app/api"
 
 
 
